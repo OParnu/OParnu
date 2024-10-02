@@ -1,6 +1,6 @@
 ## Hi there 👋
-✨ I'm king mongkut's university technology thonburi. ✨
-🔭 I’m currently working on Kradan Kanban Project of Intregated Project. 🔭
+- ✨ I'm king mongkut's university technology thonburi. ✨
+- 🔭 I’m currently working on Kradan Kanban Project of Intregated Project. 🔭
 <!--
 **OParnu/OParnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
